@@ -1,4 +1,4 @@
-# 00inclass-Recap-schiderf  
+# 00home-Recap-schiderf  
 ### Project description: 
 Simple Programm with three scenes, a random color changer and a calculator
 
@@ -22,7 +22,7 @@ WebGL needs to be installed.
 Original Readme: https://github.com/3ahmnm-htlsbg/home-WebGl-cs-smeerws/blob/master/README.md
 
 ### Project state: 
-incl. progress in percent 
+50%
 
 
 ### Limitations: 
